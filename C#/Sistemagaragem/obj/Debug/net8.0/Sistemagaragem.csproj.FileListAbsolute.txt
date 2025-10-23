@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\Estudos\portfolio\C#\Sistemagaragem\obj\Debug\net8.0\Sistemagaragem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Estudos\portfolio\C#\Sistemagaragem\obj\Debug\net8.0\Sistemagaragem.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Estudos\portfolio\C#\Sistemagaragem\obj\Debug\net8.0\Sistemagaragem.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Estudos\portfolio\C#\Sistemagaragem\obj\Debug\net8.0\Sistemagaragem.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Estudos\portfolio\C#\Sistemagaragem\obj\Debug\net8.0\Sistemagaragem.sourcelink.json
+C:\Users\Pichau\Documents\Estudos\portfolio\C#\Sistemagaragem\bin\Debug\net8.0\Sistemagaragem.exe
+C:\Users\Pichau\Documents\Estudos\portfolio\C#\Sistemagaragem\bin\Debug\net8.0\Sistemagaragem.deps.json
+C:\Users\Pichau\Documents\Estudos\portfolio\C#\Sistemagaragem\bin\Debug\net8.0\Sistemagaragem.runtimeconfig.json
+C:\Users\Pichau\Documents\Estudos\portfolio\C#\Sistemagaragem\bin\Debug\net8.0\Sistemagaragem.dll
+C:\Users\Pichau\Documents\Estudos\portfolio\C#\Sistemagaragem\bin\Debug\net8.0\Sistemagaragem.pdb
+C:\Users\Pichau\Documents\Estudos\portfolio\C#\Sistemagaragem\obj\Debug\net8.0\Sistemagaragem.dll
+C:\Users\Pichau\Documents\Estudos\portfolio\C#\Sistemagaragem\obj\Debug\net8.0\refint\Sistemagaragem.dll
+C:\Users\Pichau\Documents\Estudos\portfolio\C#\Sistemagaragem\obj\Debug\net8.0\Sistemagaragem.pdb
+C:\Users\Pichau\Documents\Estudos\portfolio\C#\Sistemagaragem\obj\Debug\net8.0\Sistemagaragem.genruntimeconfig.cache
+C:\Users\Pichau\Documents\Estudos\portfolio\C#\Sistemagaragem\obj\Debug\net8.0\ref\Sistemagaragem.dll
